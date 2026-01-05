@@ -15,3 +15,6 @@ for i  in range(len(x_list)):
 x=5
 y = lagrange(x_list,y_list,x)
 print({y})
+
+
+
